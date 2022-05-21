@@ -56,6 +56,7 @@ else:
 
 
 '''
+this for you to just take note for the different types of data
 string "hello" "hi" "ojo"
 integer 8.-8,54,-1
 float 2.4,-5.0,7.4
